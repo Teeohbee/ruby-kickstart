@@ -17,7 +17,8 @@
 #        return self.date == other.date
 #      end
 
-
+def User
+  
 
 # ==========  EXAMPLE  ==========
 #
